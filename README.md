@@ -3,18 +3,9 @@
 
 A secure and user-friendly password manager built with the MERN stack (MongoDB, Express, React, Node.js). This application allows users to manage their passwords, ensuring all data is encrypted and accessible only to authorized users.
 
+
 ### [Live Demo](https://shashi-passop.netlify.app/)
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
