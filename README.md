@@ -3,7 +3,7 @@
 
 A secure and user-friendly password manager built with the MERN stack (MongoDB, Express, React, Node.js). This application allows users to manage their passwords, ensuring all data is encrypted and accessible only to authorized users.
 
-[Live Demo](https://cheguri-shashikanth.netlify.app/)
+### [Live Demo](https://shashi-passop.netlify.app/)
 
 ## Table of Contents
 
@@ -23,9 +23,6 @@ A secure and user-friendly password manager built with the MERN stack (MongoDB, 
 - Categorize passwords for easy access
 - Password generation tool
 
-## Installation
-
-### Prerequisites
 
 Make sure you have the following installed on your local machine:
 
@@ -33,8 +30,3 @@ Make sure you have the following installed on your local machine:
 - [MongoDB](https://www.mongodb.com/) (Community Edition)
 - [Git](https://git-scm.com/)
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/password-manager.git
-cd password-manager
